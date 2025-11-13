@@ -1,41 +1,75 @@
-# About Us - NeptuneChain
+# BlueSignal
 
-## Introduction
-Welcome to [NeptuneChain](https://www.neptunechain.io), where innovation meets environmental sustainability. We're on a mission to revolutionize water quality standards with advanced technologies and digital solutions.
+## 🌊 Introduction
+Welcome to **BlueSignal**, an Austin-based environmental technology and field-services company.  
+We build smart water-quality hardware, provide solar and deck cleaning services, and give homeowners, dock owners, and landowners real-time insight into the health of their water and solar assets.
 
-## Our Mission
-At NeptuneChain, we're committed to setting new benchmarks in water quality. Our goal is to quadruple the nutrient recycling rate in impaired waters across the United States by 2030. Learn more about our [mission and goals](#URL-for-mission-and-goals).
+---
 
-## The Market and Product
-Operating at the intersection of technology and environmental sustainability, our focus is on enhancing water quality management. Discover more about our innovative [products and services](#URL-for-products-and-services), including our digital solutions for nutrient pollution trading.
+## 🎯 Our Mission
+BlueSignal helps people understand and protect the environments they live on — their water, their docks, their land, and their solar systems.
 
-## The Core Team
+We develop practical hardware, simple software, and reliable services that make clean water and clean energy easier to maintain.
 
-### Jacques D. Jean - Founder and CEO
-- Leading NeptuneChain with a vision rooted in renewable energy and environmental sustainability.
-- Learn more about Jacques's journey and his role at [HomeGrid](https://homegridenergy.com).
-- Contact Jacques: [jacques@neptunechain.io](mailto:jacques@neptunechain.io) | [LinkedIn Profile](https://www.linkedin.com/in/jacquesdjean?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+Our long-term vision includes enabling customers to earn credits or value from operating BlueSignal devices on their property.
 
-### Lily Neilsen - Co-Founder and Methodologist
-- An environmental policy expert, spearheading environmental methodologies at NeptuneChain.
-- Find out more about Lily's work and her studies at [Carnegie Mellon University](https://www.cmu.edu/).
+---
 
-### Addie Mako - Software Engineer
-- A full-stack web developer, specializing in AI-driven applications.
-- Explore Addie's professional background and his current role at [Okamalabs](https://www.okamalabs.com).
+## 🛠️ What We Do
 
-### Jacques M. Jean - Business Advisor
-- Founder and CEO of TechFides, advocating for environmental sustainability at NeptuneChain.
-- Discover more about Jacques M. Jean's role at [TechFides](https://www.techfides.com) and his [Forbes Technology Council Membership]([https://councils.forbes.com/forbestechcouncil).
+BlueSignal operates at the intersection of **environmental sensors**, **IoT hardware**, and **local field services**.
 
-### Our Vision
-Envisioning a future where water is managed seamlessly. 
-Join us in shaping a sustainable future for water management.
+### **Hardware**
+- Water-quality monitoring buoys  
+- Soil nutrient sensors  
+- Ultrasonic algae-control emitters  
+- Pollution Gateway (IoT edge device)  
+- NPC Node (lightweight edge processor)
 
-### Connect with Us
-For collaborations, inquiries, or more information about NeptuneChain, please contact:
+### **Local Services (Austin, TX)**
+- Solar panel cleaning — **$4.99 per panel**  
+- Deck & dock pressure washing — **$199.99**  
+- Solar consulting for homeowners & installers  
+- Hardware installation & commissioning  
 
-- Jacques D. Jean: [jacques@neptunechain.io](mailto:jacques@neptunechain.io) | +1 (214) 609-0976
-- Follow us on [LinkedIn](https://www.linkedin.com/company/neptunechain/?viewAsMember=true), [Twitter](https://x.com/neptunechainio/), or visit our [Website](https://www.neptunechain.io/).
+Explore product and service details at:  
+👉 https://BlueSignal.xyz
 
-Join our journey towards a sustainable future in water management.
+---
+
+## 👥 Core Team
+
+### **Jacques D. Jean — Founder & CEO**
+- Founder of BlueSignal, focused on IoT hardware, environmental monitoring, and clean-energy field operations.  
+- Background in energy storage sales, solar consulting, environmental IoT, and startup execution.  
+- **Contact:** hi@bluesignal.xyz  
+- **LinkedIn:** https://www.linkedin.com/in/jacquesdjean  
+
+### **Additional Contributors**
+Technical contributors, developers, and advisors are listed in GitHub commit history and project-specific documentation.
+
+---
+
+## 🌐 Our Vision
+BlueSignal is building a future where homeowners, dock owners, marinas, and communities can:
+
+- Monitor water quality in real time  
+- Prevent algae and nutrient buildup  
+- Protect docks, lakes, and shorelines  
+- Maintain efficient solar systems  
+- Use simple, reliable hardware & software  
+
+Long-term, BlueSignal devices will support participation in emerging water-quality credit markets — enabling property owners to be rewarded for measurable environmental improvements.
+
+---
+
+## 🤝 Connect With Us
+For collaborations, technical inquiries, or contractor opportunities:
+
+**📧 Email:** hi@bluesignal.xyz  
+**🌐 Website:** https://BlueSignal.xyz  
+**🔗 LinkedIn:** *(insert company page when created)*  
+
+---
+
+Feel free to open issues or submit pull requests as BlueSignal’s hardware and software ecosystem evolves.
