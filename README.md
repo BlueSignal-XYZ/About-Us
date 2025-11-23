@@ -68,7 +68,7 @@ For collaborations, technical inquiries, or contractor opportunities:
 
 **📧 Email:** hi@bluesignal.xyz  
 **🌐 Website:** https://BlueSignal.xyz  
-**🔗 LinkedIn:** *(insert company page when created)*  
+**🔗 LinkedIn:** https://www.linkedin.com/company/bluesignalsystems
 
 ---
 
